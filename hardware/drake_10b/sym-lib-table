@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "drake_10b")(type "KiCad")(uri "${KIPRJMOD}/drake_10b.kicad_sym")(options "")(descr ""))
+)

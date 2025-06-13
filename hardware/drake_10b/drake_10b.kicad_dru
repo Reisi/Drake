@@ -1,0 +1,26 @@
+(version 1)
+
+(rule accel
+	(constraint clearance(min 0.15mm))
+	(condition "A.intersectsCourtyard('U4')")
+)
+
+(rule via_angular_ring
+	(constraint annular_width(min 0.05mm))
+	(condition "A.Type =='Via'")
+)
+
+(rule via_not_in_pad
+	(constraint physical_hole_clearance(min 6mil))
+	(condition "A.Type == 'via' && B.Type == 'Pad' && !A.intersectsCourtyard('U1')")
+)
+
+(rule hole_distance
+	(constraint hole_to_hole(min 0.5mm))
+	(condition "A.Type != 'Via' || B.Type != 'Via'")
+)
+
+(rule ignore_courtyard_overlap
+	(constraint courtyard_clearance(min -100mm))
+	(condition "A.Reference == 'J1' || A.Reference == 'J5' || A.Reference == 'J6' || A.Reference == 'SW1' || A.Reference == 'SW2'")
+)
