@@ -1,4 +1,4 @@
-22767585642540575
+22819334619273633
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92903,6 +92903,216 @@ Varistor VF
 0
 2
 2
+drake_10b
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+drake_10b
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+drake_10b
+Crystal_SMD_2016-4Pin_2.0x1.6mm
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+drake_10b
+D_SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+drake_10b
+Diodes_DFN1006-3
+DFN package size 1006 3 pins
+DFN package size 1006 3 pins
+0
+3
+3
+drake_10b
+Everlight_ITR1201SR10AR
+package for Everlight ITR1201SR10AR, light-direction upwards, see https://www.everlight.com/file/ProductFile/ITR1201SR10AR-TR.pdf
+reflective opto couple photo coupler
+0
+4
+4
+drake_10b
+FFC_SolderCon_4pin_3,5x0,3mm_Pitch0.5mm
+4pin 0.5mm Pitch FFC direct solder footprint
+
+0
+4
+4
+drake_10b
+JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical
+JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+2
+2
+drake_10b
+Jushuo_AFC01-S04FCC-00_1x04-1MP_P0.50_Horizontal
+Jushuo AFC01, FFC/FPC connector, AFC01-S04FCC-00, 4 Pins per row (https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_JUSHUO-AFC01-S04FCC-00_C262260.pdf)
+connector jushuo horizontal
+0
+6
+5
+drake_10b
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+drake_10b
+LED_WS2812B-2020_PLCC4_2.0x2.0mm
+2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano PLCC-4 2020
+0
+4
+4
+drake_10b
+LGA-12_2x2mm_P0.5mm
+LGA12
+lga land grid array
+0
+12
+12
+drake_10b
+L_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+drake_10b
+PinHeader_1x01_P2.00mm_Vertical
+Through hole straight pin header, 1x01, 2.00mm pitch, single row
+Through hole pin header THT 1x01 2.00mm single row
+0
+1
+1
+drake_10b
+PinHeader_2x02_P1.27mm_Vertical
+Through hole straight pin header, 2x02, 1.27mm pitch, double rows
+Through hole pin header THT 2x02 1.27mm double row
+0
+4
+4
+drake_10b
+QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm
+QFN, 48 Pin (http://infocenter.nordicsemi.com/pdf/nRF51822_PS_v3.3.pdf#page=67), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+58
+49
+drake_10b
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+drake_10b
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+drake_10b
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+drake_10b
+SOT-23-3
+SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+drake_10b
+SOT-23-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+drake_10b
+SW_Push_1P1T_XKB_TS-1187A
+SMD Tactile Switch, http://www.helloxkb.com/public/images/pdf/TS-1187A-X-X-X.pdf
+SPST Tactile Switch
+0
+4
+2
+drake_10b
+ToolingHole
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+drake_10b
+U.FL_Hirose_U.FL-R-SMT-1_Vertical
+Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
+Hirose U.FL Coaxial
+0
+3
+2
+drake_10b
+USB_C_Receptacle_XKB_U262-16XN-4BVC11
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
+drake_10b
+drake_logo_10mm
+
+
+0
+0
+0
+rt_Housing_QFN_DFN
+DFN-10_2x2mm_Pitch0.4mm
+DDB Package; 10-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_10_05-08-1722.pdf)
+DFN 0.4
+0
+10
+10
+rt_Housing_QFN_DFN
+DHVQFN-20-1EP_2.5x4.5_Pitch0.5mm
+
+
+0
+21
+21
+rt_Housing_QFN_DFN
+QFN-16-1EP_3x3mm_Pitch0.5mm
+16-Lead Plastic Quad Flat, No Lead Package (NG) - 3x3x1.0 mm Body [QFN];
+QFN 0.5
+0
+16
+16
+rt_Housing_QFN_DFN
+QFN-24-1EP_4x4mm_Pitch0.5mm
+24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+24
+24
 rt_OptoDevice
 Everlight_ITR20403
 Fork-type photointerrupter (https://www.everlighteurope.com/custom/files/datasheets/DRX-0000138.pdf)

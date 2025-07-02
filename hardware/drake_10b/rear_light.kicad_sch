@@ -1879,6 +1879,12 @@
     (uuid fff6d2e5-44b3-48d2-85b7-374977f6e5d8)
   )
 
+  (text "components on this sheet are only populated when using as light\n\nJP1 has to be populated, when using as 16 LED taillight"
+    (at 181.61 173.99 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5dd4b811-e442-4a7c-b8b4-c800ab28dfe3)
+  )
+
   (hierarchical_label "START" (shape input) (at 36.83 71.12 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1fc38745-a9b4-4639-aebb-6c4aef9f80c4)
@@ -6205,7 +6211,7 @@
     (property "JLC" "0402" (at 72.39 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C14033" (at 72.39 101.6 0)
+    (property "LCSC" "C17168" (at 72.39 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dc859e2a-8cec-47a2-829c-7000eb68c282))
